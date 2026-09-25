@@ -1,0 +1,369 @@
+{
+  "cand-001": {
+    "candidateId": "cand-001",
+    "candidateName": "Amit Sharma",
+    "identity": {
+      "name": {
+        "field": "name",
+        "value": "Amit Sharma",
+        "source": "application_form",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      },
+      "phone": {
+        "field": "phone",
+        "value": "+91 98112 34567",
+        "source": "application_form",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      },
+      "email": {
+        "field": "email",
+        "value": "amit.sharma@gmail.com",
+        "source": "application_form",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      },
+      "location": {
+        "field": "location",
+        "value": "DLF Phase 5, Gurugram",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      }
+    },
+    "experience": {
+      "totalYears": {
+        "field": "totalYears",
+        "value": 6,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "realEstateYears": {
+        "field": "realEstateYears",
+        "value": 6,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "gurgaonYears": {
+        "field": "gurgaonYears",
+        "value": 6,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "dubaiYears": {
+        "field": "dubaiYears",
+        "value": 1,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.85,
+        "verified": true
+      }
+    },
+    "companies": {
+      "field": "companies",
+      "value": [
+        "Anarock",
+        "PropTiger"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.95,
+      "verified": true
+    },
+    "designations": {
+      "field": "designations",
+      "value": [
+        "Senior Manager - Luxury Residential"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.95,
+      "verified": true
+    },
+    "markets": {
+      "field": "markets",
+      "value": [
+        "Golf Course Extension Road",
+        "SPR",
+        "Dwarka Expressway"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.95,
+      "verified": true
+    },
+    "projects": {
+      "field": "projects",
+      "value": [
+        "M3M Golfestate",
+        "DLF The Camellias",
+        "Emaar Palm Springs"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.9,
+      "verified": true
+    },
+    "developers": {
+      "field": "developers",
+      "value": [
+        "DLF",
+        "M3M",
+        "Emaar",
+        "Godrej"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.95,
+      "verified": true
+    },
+    "segments": {
+      "field": "segments",
+      "value": [
+        "Luxury Residential",
+        "Ultra-Luxury High-Rise"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.95,
+      "verified": true
+    },
+    "ticketSizes": {
+      "field": "ticketSizes",
+      "value": [
+        "₹4 Cr - ₹12 Cr"
+      ],
+      "source": "candidate_spoken",
+      "timestamp": "2026-09-23T09:37:54.300Z",
+      "confidence": 0.9,
+      "verified": true
+    },
+    "luxuryExperience": {
+      "hasLuxury": {
+        "field": "hasLuxury",
+        "value": true,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "ticketSizesHandled": {
+        "field": "ticketSizesHandled",
+        "value": [
+          "₹4 Cr - ₹12 Cr"
+        ],
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "hniExposure": {
+        "field": "hniExposure",
+        "value": "High - Direct NRI & CXO clientele in Delhi NCR",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      },
+      "developersHandled": {
+        "field": "developersHandled",
+        "value": [
+          "DLF",
+          "M3M",
+          "Emaar"
+        ],
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "primaryVsSecondary": {
+        "field": "primaryVsSecondary",
+        "value": "80% Primary Developer Sales, 20% Prime Secondary",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.88,
+        "verified": true
+      }
+    },
+    "salesPerformance": {
+      "highestPersonalClosure": {
+        "field": "highestPersonalClosure",
+        "value": "₹9.5 Cr (DLF luxury penthouse)",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.92,
+        "verified": true
+      },
+      "monthlyRunRate": {
+        "field": "monthlyRunRate",
+        "value": "₹12-18 Cr Gross Bookings / month",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      }
+    },
+    "teamManagement": {
+      "teamSize": {
+        "field": "teamSize",
+        "value": 8,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      },
+      "personalVsTeamSplit": {
+        "field": "personalVsTeamSplit",
+        "value": "60% Squad mentoring / closing assistance, 40% personal HNI accounts",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.88,
+        "verified": true
+      }
+    },
+    "compensation": {
+      "currentSalary": {
+        "field": "currentSalary",
+        "value": "18 LPA Fixed",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      },
+      "expectedSalary": {
+        "field": "expectedSalary",
+        "value": "22 LPA Fixed + High OTE",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      },
+      "isDisclosed": {
+        "field": "isDisclosed",
+        "value": true,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      }
+    },
+    "noticePeriod": {
+      "days": {
+        "field": "days",
+        "value": 15,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "earliestJoining": {
+        "field": "earliestJoining",
+        "value": "15 Days / Immediate buyout possible",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      },
+      "negotiable": {
+        "field": "negotiable",
+        "value": true,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.9,
+        "verified": true
+      }
+    },
+    "interviewAvailability": {
+      "agreedSlot": {
+        "field": "agreedSlot",
+        "value": "Tomorrow 11:00 AM",
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 0.95,
+        "verified": true
+      },
+      "venueAcknowledged": {
+        "field": "venueAcknowledged",
+        "value": true,
+        "source": "candidate_spoken",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      },
+      "slotId": {
+        "field": "slotId",
+        "value": "slot-101",
+        "source": "system",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "confidence": 1,
+        "verified": true
+      }
+    },
+    "communicationPreferences": {
+      "preferredLanguage": "Hinglish",
+      "communicationStyle": "detailed",
+      "bestTimeToCall": "Morning 10:30 AM - 12:00 PM",
+      "channelPreference": "WhatsApp",
+      "insights": [
+        "Prefers direct project discussion",
+        "Values transparent commission timelines"
+      ]
+    },
+    "candidateQuestions": [
+      {
+        "question": "Are you actively empaneled for DLF Phase 5 and Camellias inventory?",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "conversationId": "CALL-101",
+        "answered": true,
+        "topicCategory": "PROJECT_MAPPING"
+      }
+    ],
+    "concerns": [],
+    "interests": [
+      "Luxury Residential",
+      "Dubai Cross-Sell Off-Plan",
+      "High Ticket Commissions"
+    ],
+    "unresolvedQuestions": [],
+    "contradictions": [],
+    "corrections": [],
+    "importantStatements": [
+      {
+        "statement": "I have personally closed 4 transactions above ₹7 Cr in the last 6 months along Golf Course Extension.",
+        "topic": "sales_performance",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "conversationId": "CALL-101"
+      }
+    ],
+    "previousOutcomes": [
+      {
+        "conversationId": "CALL-101",
+        "outcome": "INTERVIEW_SCHEDULED",
+        "timestamp": "2026-09-23T09:37:54.300Z",
+        "summary": "High-fit candidate with solid Gurgaon luxury developer credentials. F2F interview booked at Sector 67 HQ."
+      }
+    ],
+    "candidateSpecificLearnings": [
+      "Candidate is highly articulate with developer mandates and prefers talking numbers and inventory directly."
+    ],
+    "nextAction": {
+      "action": "Conduct F2F Technical & Leadership Round at Sector 67 Gurugram HQ",
+      "dueDate": "Tomorrow",
+      "owner": "Senior HR Manager",
+      "suggestedTopic": "F2F Interview Briefing"
+    },
+    "lastUpdated": "2026-09-23T09:37:54.300Z"
+  }
+}

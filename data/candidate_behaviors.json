@@ -1,0 +1,599 @@
+{
+  "cand-001": [
+    {
+      "id": "beh-seed-001",
+      "candidateId": "cand-001",
+      "candidateName": "Amit Sharma",
+      "conversationId": "CALL-PREV-01",
+      "timestamp": "2026-09-22T09:37:54.297Z",
+      "confidence": 0.92,
+      "communicationStyle": {
+        "primaryTone": "professional",
+        "secondaryTones": [
+          "direct",
+          "confident"
+        ],
+        "summary": "Candidate communicates in a direct, professional, and consultative manner with concrete numbers and market specifics.",
+        "isBrief": false,
+        "isDetailed": true
+      },
+      "interactionBehavior": {
+        "politeness": "polite",
+        "respectfulness": "respectful",
+        "cooperation": "COOPERATIVE",
+        "patience": "listens fully"
+      },
+      "engagement": {
+        "level": "HIGH",
+        "rationale": "Actively asked about DLF luxury inventory pipelines and Gurgaon corridor sales targets with deep interest.",
+        "interestSignals": [
+          "asked about luxury projects on Golf Course Extension Road",
+          "inquired about commission slabs for 20 Cr+ luxury closures",
+          "asked about face-to-face interview process at Sector 67 HQ"
+        ],
+        "concernSignals": [
+          "verified whether leads provided are HNI verified buyers"
+        ]
+      },
+      "conversationSignals": {
+        "listeningResponseQuality": "EVIDENCE_BASED",
+        "confidenceSignals": "CLEARLY_ARTICULATED",
+        "answerOwnership": "Clearly distinguished personal direct closures (₹18 Cr DLF Camellias/The Aralias) from total squad target",
+        "accountabilitySignals": "Described a structured pipeline conversion analysis when asked about team quarterly target challenges",
+        "interruptions": {
+          "frequency": "occasional interruption",
+          "classification": "natural interruption",
+          "count": 1,
+          "notes": "Interrupted briefly to clarify the exact sector location of M3M Urbana, which progressed the scheduling smoothly"
+        },
+        "impatience": {
+          "level": "NONE",
+          "evidence": []
+        },
+        "frustrationSignals": {
+          "detected": false,
+          "evidence": []
+        },
+        "aggressiveLanguage": {
+          "detected": false,
+          "severity": "none",
+          "evidence": [],
+          "count": 0
+        }
+      },
+      "scenarioBehavior": [
+        {
+          "scenarioTitle": "HNI Client objecting to ₹12 Cr luxury ticket price",
+          "objectionHandlingStepsUsed": [
+            "1. Understand objection",
+            "2. Ask clarifying questions",
+            "3. Identify actual concern",
+            "4. Explain capital appreciation value",
+            "5. Compare alternatives in Golf Course Ext"
+          ],
+          "negotiationStyle": "consultative",
+          "conversationalAdaptability": "HIGH",
+          "customerHandlingApproach": "Consultative and value-grounded; framed property as an generational asset with infrastructure growth justification",
+          "observation": "Followed structured objection handling without pressuring the client",
+          "ownershipShown": "Demonstrated high individual deal accountability with specific buyer objection examples"
+        }
+      ],
+      "behaviorTimeline": [
+        {
+          "stage": "opening",
+          "tone": "polite",
+          "engagement": "medium",
+          "observation": "Acknowledged call courteously and confirmed availability"
+        },
+        {
+          "stage": "screening",
+          "tone": "professional",
+          "engagement": "high",
+          "observation": "Shared 6 years Gurugram luxury real estate experience with exact developer details"
+        },
+        {
+          "stage": "compensation",
+          "tone": "direct",
+          "engagement": "high",
+          "observation": "Stated current 16 LPA fixed and 22 LPA expectation clearly without hesitation"
+        },
+        {
+          "stage": "interview_scheduling",
+          "tone": "enthusiastic",
+          "engagement": "high",
+          "observation": "Agreed enthusiastically to visit Sector 67 M3M Urbana office"
+        }
+      ],
+      "evidence": [
+        {
+          "dimension": "politeness",
+          "observation": "Candidate used polite framing throughout conversation",
+          "evidence": "\"Sure Arjun ji, please go ahead, I have 10 minutes right now.\"",
+          "timestamp": "2026-09-22T09:37:54.297Z",
+          "conversationId": "CALL-PREV-01",
+          "confidence": 0.95,
+          "source": "transcript"
+        },
+        {
+          "dimension": "answerOwnership",
+          "observation": "Candidate distinguished personal contribution from team aggregate",
+          "evidence": "\"Our team did 35 Crores, but my direct individual mandate was 18 Crores in luxury residential.\"",
+          "timestamp": "2026-09-22T09:37:54.297Z",
+          "conversationId": "CALL-PREV-01",
+          "confidence": 0.94,
+          "source": "transcript"
+        }
+      ],
+      "candidatePreferences": {
+        "language": "Hinglish",
+        "responseStyle": "detailed",
+        "preferredTime": "afternoon",
+        "communicationPreference": "consultative"
+      },
+      "behaviorTrend": {
+        "trend": "STABLE",
+        "historicalCallCount": 1,
+        "trendDescription": "Consistently professional, cooperative, and high-engagement across interactions."
+      },
+      "adaptiveRecommendations": {
+        "recommendedAgentPacing": "conversational_space",
+        "guidance": "Candidate responds exceptionally well to domain-specific luxury questions. Provide conversational space and discuss project tiers directly."
+      },
+      "behaviorScore": {
+        "communication": {
+          "clarity": 5,
+          "responsiveness": 5,
+          "engagement": 5
+        },
+        "interaction": {
+          "politeness": 5,
+          "respectfulness": 5,
+          "cooperation": 5,
+          "patience": 4
+        },
+        "conversation": {
+          "interruptions": 4,
+          "topic_drift": 5,
+          "answer_relevance": 5
+        }
+      },
+      "humanReviewRequired": false,
+      "humanReviewReasons": [],
+      "limitations": [
+        "Behavior profile reflects observable conversation turns only; does not infer personality, intelligence, or psychological state."
+      ]
+    }
+  ],
+  "cand-2": [
+    {
+      "id": "beh-seed-002",
+      "candidateId": "cand-2",
+      "candidateName": "Ananya Verma",
+      "conversationId": "call-rec-1",
+      "timestamp": "2026-09-14T16:42:00.000Z",
+      "confidence": 0.95,
+      "communicationStyle": {
+        "primaryTone": "conversational",
+        "secondaryTones": [
+          "enthusiastic",
+          "professional"
+        ],
+        "summary": "Candidate exhibits high verbal clarity, enthusiastic cooperation, and fluid bilingual comfort. Provided structured, transparent answers on both Dubai and Gurgaon transactions.",
+        "isBrief": false,
+        "isDetailed": true
+      },
+      "interactionBehavior": {
+        "politeness": "polite",
+        "respectfulness": "respectful",
+        "cooperation": "COOPERATIVE",
+        "patience": "listens fully"
+      },
+      "engagement": {
+        "level": "HIGH",
+        "rationale": "Immediately recognized developer projects in Dubai & Gurgaon, answered compensation directly, and confirmed F2F interview with zero hesitation.",
+        "interestSignals": [
+          "Eager to attend F2F round at Sector 67 M3M Urbana office",
+          "Promptly verified availability for next-day 11:00 AM slot",
+          "Proactively mentioned local Golf Course Extension and Dubai Marina project closures"
+        ],
+        "concernSignals": []
+      },
+      "conversationSignals": {
+        "listeningResponseQuality": "EVIDENCE_BASED",
+        "confidenceSignals": "CLEARLY_ARTICULATED",
+        "answerOwnership": "Cited specific project names (Emaar & Sobha in Dubai, Golf Course Ext locally) with clear transactional familiarity",
+        "accountabilitySignals": "Directly stated 15-day notice period and verified immediate joining readiness",
+        "interruptions": {
+          "frequency": "no interruptions",
+          "classification": "none",
+          "count": 0,
+          "notes": "No interruptions observed; waited for complete agent prompt before responding"
+        },
+        "impatience": {
+          "level": "NONE",
+          "evidence": []
+        },
+        "frustrationSignals": {
+          "detected": false,
+          "evidence": []
+        },
+        "aggressiveLanguage": {
+          "detected": false,
+          "severity": "none",
+          "evidence": [],
+          "count": 0
+        }
+      },
+      "scenarioBehavior": [
+        {
+          "scenarioTitle": "Dubai & Gurgaon dual-market luxury sales screening",
+          "objectionHandlingStepsUsed": [
+            "Clarified experience across both international and domestic luxury hubs",
+            "Confirmed prompt F2F scheduling availability"
+          ],
+          "negotiationStyle": "consultative",
+          "conversationalAdaptability": "HIGH",
+          "customerHandlingApproach": "High warmth and relationship-focused; speaks with poise and professional hospitality suitable for high-net-worth real estate buyers",
+          "observation": "Maintained polite, consultative cadence throughout the 3-minute screening dialogue",
+          "ownershipShown": "Clear timeline and ownership of compensation expectation and immediate joining availability"
+        }
+      ],
+      "behaviorTimeline": [
+        {
+          "stage": "opening",
+          "tone": "warm",
+          "engagement": "high",
+          "observation": "Warmly greeted agent and confirmed time to speak"
+        },
+        {
+          "stage": "screening",
+          "tone": "enthusiastic",
+          "engagement": "high",
+          "observation": "Detailed 4 years pure real estate background"
+        },
+        {
+          "stage": "compensation",
+          "tone": "transparent",
+          "engagement": "high",
+          "observation": "Provided 11 LPA current and 15 LPA expected without deflection"
+        },
+        {
+          "stage": "interview_scheduling",
+          "tone": "enthusiastic",
+          "engagement": "high",
+          "observation": "Accepted Sector 67 M3M Urbana HQ slot immediately"
+        }
+      ],
+      "evidence": [
+        {
+          "dimension": "politeness",
+          "observation": "Candidate opened and closed with polite greetings",
+          "evidence": "\"Yes, hi! Good afternoon. Yes, I can speak for a few minutes.\"",
+          "timestamp": "16:40:10",
+          "conversationId": "call-rec-1",
+          "confidence": 0.96,
+          "source": "transcript"
+        },
+        {
+          "dimension": "clarity",
+          "observation": "Directly specified both local and international project credentials",
+          "evidence": "\"I have closed multiple transactions in Emaar and Sobha in Dubai Marina & Downtown, and locally on Golf Course Extension Road.\"",
+          "timestamp": "16:40:55",
+          "conversationId": "call-rec-1",
+          "confidence": 0.94,
+          "source": "transcript"
+        },
+        {
+          "dimension": "cooperation",
+          "observation": "Immediate acceptance of scheduled interview slot",
+          "evidence": "\"Tomorrow 11 AM works perfectly for me. Please share the address.\"",
+          "timestamp": "16:42:01",
+          "conversationId": "call-rec-1",
+          "confidence": 0.98,
+          "source": "transcript"
+        }
+      ],
+      "candidatePreferences": {
+        "language": "English",
+        "responseStyle": "detailed",
+        "preferredTime": "morning",
+        "communicationPreference": "consultative"
+      },
+      "behaviorTrend": {
+        "trend": "IMPROVING",
+        "historicalCallCount": 1,
+        "trendDescription": "High conversational energy, polite rapport, and crisp factual disclosures."
+      },
+      "adaptiveRecommendations": {
+        "recommendedAgentPacing": "conversational_space",
+        "guidance": "Candidate is highly articulate and engaged. Allow conversational room to discuss luxury portfolio strategy and M3M/DLF developer tie-ups."
+      },
+      "behaviorScore": {
+        "communication": {
+          "clarity": 5,
+          "responsiveness": 5,
+          "engagement": 5
+        },
+        "interaction": {
+          "politeness": 5,
+          "respectfulness": 5,
+          "cooperation": 5,
+          "patience": 5
+        },
+        "conversation": {
+          "interruptions": 5,
+          "topic_drift": 5,
+          "answer_relevance": 5
+        }
+      },
+      "humanReviewRequired": false,
+      "humanReviewReasons": [],
+      "limitations": [
+        "Observable conversational behavior only. No inferences made regarding personal psychological characteristics."
+      ]
+    }
+  ],
+  "cand-1": [
+    {
+      "id": "beh-seed-001-rohan",
+      "candidateId": "cand-1",
+      "candidateName": "Rohan Sharma",
+      "conversationId": "CALL-PREV-01",
+      "timestamp": "2026-09-22T09:37:54.297Z",
+      "confidence": 0.92,
+      "communicationStyle": {
+        "primaryTone": "direct",
+        "secondaryTones": [
+          "professional",
+          "brief"
+        ],
+        "summary": "Candidate communicates in a brief, concise, and business-focused manner. Focuses quickly on essential numbers and inventory tiers.",
+        "isBrief": true,
+        "isDetailed": false
+      },
+      "interactionBehavior": {
+        "politeness": "polite",
+        "respectfulness": "respectful",
+        "cooperation": "COOPERATIVE",
+        "patience": "listens fully"
+      },
+      "engagement": {
+        "level": "MEDIUM",
+        "rationale": "Focused primarily on luxury ticket sizes on Golf Course Road and immediate compensation expectations.",
+        "interestSignals": [
+          "Inquired about Golf Course Road inventory tiers"
+        ],
+        "concernSignals": []
+      },
+      "conversationSignals": {
+        "listeningResponseQuality": "EVIDENCE_BASED",
+        "confidenceSignals": "CLEARLY_ARTICULATED",
+        "answerOwnership": "Direct ownership of past residential sales closures",
+        "accountabilitySignals": "Clear timeline on notice period",
+        "interruptions": {
+          "frequency": "no interruptions",
+          "classification": "none",
+          "count": 0,
+          "notes": "Listened attentively to recruiter prompts"
+        },
+        "impatience": {
+          "level": "NONE",
+          "evidence": []
+        },
+        "frustrationSignals": {
+          "detected": false,
+          "evidence": []
+        },
+        "aggressiveLanguage": {
+          "detected": false,
+          "severity": "none",
+          "evidence": [],
+          "count": 0
+        }
+      },
+      "scenarioBehavior": [],
+      "behaviorTimeline": [
+        {
+          "stage": "opening",
+          "tone": "polite",
+          "engagement": "medium",
+          "observation": "Brief greeting and confirmed readiness"
+        },
+        {
+          "stage": "screening",
+          "tone": "direct",
+          "engagement": "high",
+          "observation": "Succinct summary of DLF luxury sales history"
+        }
+      ],
+      "evidence": [
+        {
+          "dimension": "communicationStyle",
+          "observation": "Candidate gives short, high-value responses without filler",
+          "evidence": "\"Yes, 6 years in Gurgaon luxury market with DLF and Central Park portfolios.\"",
+          "timestamp": "2026-09-22T09:37:54.297Z",
+          "conversationId": "CALL-PREV-01",
+          "confidence": 0.91,
+          "source": "transcript"
+        }
+      ],
+      "candidatePreferences": {
+        "language": "English",
+        "responseStyle": "brief",
+        "preferredTime": "morning",
+        "communicationPreference": "direct"
+      },
+      "behaviorTrend": {
+        "trend": "STABLE",
+        "historicalCallCount": 1,
+        "trendDescription": "Consistent concise, high-efficiency conversational style."
+      },
+      "adaptiveRecommendations": {
+        "recommendedAgentPacing": "concise_questions",
+        "guidance": "Candidate is brief and numbers-driven. Keep recruiter questions concise and avoid long preambles."
+      },
+      "behaviorScore": {
+        "communication": {
+          "clarity": 5,
+          "responsiveness": 4,
+          "engagement": 4
+        },
+        "interaction": {
+          "politeness": 5,
+          "respectfulness": 5,
+          "cooperation": 4,
+          "patience": 4
+        },
+        "conversation": {
+          "interruptions": 5,
+          "topic_drift": 5,
+          "answer_relevance": 5
+        }
+      },
+      "humanReviewRequired": false,
+      "humanReviewReasons": [],
+      "limitations": [
+        "Observable communication behavior only. No personality or psychological diagnosis."
+      ]
+    }
+  ],
+  "cand-3": [
+    {
+      "id": "beh-seed-003",
+      "candidateId": "cand-3",
+      "candidateName": "Vikram Malhotra",
+      "conversationId": "CALL-PREV-03",
+      "timestamp": "2026-09-22T09:37:54.297Z",
+      "confidence": 0.88,
+      "communicationStyle": {
+        "primaryTone": "direct",
+        "secondaryTones": [
+          "reserved",
+          "brief"
+        ],
+        "summary": "Candidate showed verbal reluctance and mild defensiveness when questioned about leaving prior real estate firm, but cooperative on scheduling.",
+        "isBrief": true,
+        "isDetailed": false
+      },
+      "interactionBehavior": {
+        "politeness": "neutral",
+        "respectfulness": "respectful",
+        "cooperation": "COOPERATIVE",
+        "patience": "becomes impatient during detailed questions"
+      },
+      "engagement": {
+        "level": "MEDIUM",
+        "rationale": "Answered role qualification promptly, but exhibited hesitation and abrupt tone during verification of past tenure.",
+        "interestSignals": [
+          "Interested in commercial sales division at Sector 67"
+        ],
+        "concernSignals": [
+          "Expressed irritation when asked about gap between roles"
+        ]
+      },
+      "conversationSignals": {
+        "listeningResponseQuality": "PARTIAL",
+        "confidenceSignals": "MODERATELY_CLEAR",
+        "answerOwnership": "Attributed previous team target miss to market conditions rather than pipeline execution",
+        "accountabilitySignals": "Deflected question about tenure gap to general industry layoffs",
+        "interruptions": {
+          "frequency": "occasional interruption",
+          "classification": "problematic interruption",
+          "count": 2,
+          "notes": "Interrupted recruiter twice during background verification inquiries"
+        },
+        "impatience": {
+          "level": "TEMPORARY_IMPATIENCE",
+          "evidence": [
+            "\"Can we just skip to the package details instead of digging into the old company?\""
+          ]
+        },
+        "frustrationSignals": {
+          "detected": true,
+          "evidence": [
+            "Short sigh detected before answering question about past employer exit"
+          ]
+        },
+        "aggressiveLanguage": {
+          "detected": false,
+          "severity": "none",
+          "evidence": [],
+          "count": 0
+        }
+      },
+      "scenarioBehavior": [],
+      "behaviorTimeline": [
+        {
+          "stage": "opening",
+          "tone": "neutral",
+          "engagement": "medium",
+          "observation": "Answered call curtly"
+        },
+        {
+          "stage": "screening",
+          "tone": "reluctant",
+          "engagement": "low",
+          "observation": "Defensive about past employer separation"
+        },
+        {
+          "stage": "interview_scheduling",
+          "tone": "polite",
+          "engagement": "medium",
+          "observation": "Accepted face-to-face slot"
+        }
+      ],
+      "evidence": [
+        {
+          "dimension": "impatience",
+          "observation": "Candidate requested skipping tenure qualification inquiries",
+          "evidence": "\"Can we just skip to the package details instead of digging into the old company?\"",
+          "timestamp": "2026-09-22T09:37:54.297Z",
+          "conversationId": "CALL-PREV-03",
+          "confidence": 0.92,
+          "source": "transcript"
+        }
+      ],
+      "candidatePreferences": {
+        "language": "Hindi",
+        "responseStyle": "brief",
+        "preferredTime": "evening",
+        "communicationPreference": "direct"
+      },
+      "behaviorTrend": {
+        "trend": "DECLINING",
+        "historicalCallCount": 1,
+        "trendDescription": "Showed defensiveness regarding tenure verification; recruiter should probe gently in F2F round."
+      },
+      "adaptiveRecommendations": {
+        "recommendedAgentPacing": "shorter_turns",
+        "guidance": "Acknowledge candidate time pressures warmly; avoid confrontational cross-examination. De-escalate and focus on forward-looking role goals."
+      },
+      "behaviorScore": {
+        "communication": {
+          "clarity": 4,
+          "responsiveness": 3,
+          "engagement": 3
+        },
+        "interaction": {
+          "politeness": 3,
+          "respectfulness": 4,
+          "cooperation": 3,
+          "patience": 2
+        },
+        "conversation": {
+          "interruptions": 3,
+          "topic_drift": 4,
+          "answer_relevance": 4
+        }
+      },
+      "humanReviewRequired": true,
+      "humanReviewReasons": [
+        "Observable verbal defensiveness and mild impatience during past tenure inquiry",
+        "2 interruptions noted during background validation phase"
+      ],
+      "limitations": [
+        "Observable behavioral indicators only. Not a measure of candidate integrity or psychological personality."
+      ]
+    }
+  ]
+}

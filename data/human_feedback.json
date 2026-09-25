@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fb-001",
+    "candidateId": "cand-001",
+    "candidateName": "Amit Sharma",
+    "conversationId": "CALL-101",
+    "timestamp": "2026-09-22T09:37:54.301Z",
+    "reviewerName": "Rohit Verma (HR Lead)",
+    "changeType": "QUALIFICATION_DECISION",
+    "aiRecommendation": {
+      "status": "Interview Scheduled",
+      "qualification": "Senior Fit",
+      "remark": "Strong Gurgaon luxury candidate"
+    },
+    "humanDecision": {
+      "status": "Interview Scheduled",
+      "qualification": "Priority Senior Leadership",
+      "reason": "Amit has exceptional DLF luxury network and verified personal closures above 9 Cr. Prioritize for immediate squad lead role."
+    },
+    "learningGenerated": "Candidate exhibits top-tier luxury developer competence. Assign leadership evaluation rubric."
+  }
+]

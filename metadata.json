@@ -1,0 +1,7 @@
+{
+  "name": "White Collar Realty - HR Voice Calling Agent",
+  "description": "AI-powered HR Voice Calling Agent for White Collar Realty to screen real estate candidates, schedule face-to-face interviews in Gurgaon, confirm attendance, and handle follow-ups in Hindi and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
