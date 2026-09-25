@@ -26,7 +26,7 @@ dotenv.config();
 const app = express();
 const server = http.createServer(app);
 setupGeminiLiveWebSocket(server, app);
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 app.use(express.json({ limit: '10mb' }));
 
